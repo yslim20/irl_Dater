@@ -1,0 +1,153 @@
+body, html {
+    height: 100%;
+}
+
+.bg {
+    background-image: linear-gradient(#F8D8E0,  #FFFFFF 75%);
+    background-attachment: fixed;
+}
+
+#cont{
+    max-width: 1235px;
+    margin: 0 auto;
+    height: 100%;
+}
+
+.main_box {
+    width: 1235px;
+    height:465px;
+    background: white;
+    margin: 0 auto;
+    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+    border-radius: 20px;
+    padding: 15px;
+    margin-top: 10%;
+}
+
+#dot {
+     z-index: -1;
+     display: flex;
+     justify-content: flex-end;
+     position: absolute;
+     right: 20%;
+     top:7%;
+}
+
+.heading {
+    font-family: 'Pridi', serif;
+    font-size: 64px;
+    width: 552px;
+}
+
+.icons_heading{
+    text-align: center;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.hearts{
+    margin: 5px;
+}
+
+#team {
+    justify-content: center;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+
+    border: 3px solid #F8D8E0;
+    box-sizing: border-box;
+    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.25);
+    border-radius: 20px;
+
+    width: 575px;
+    height: 350px;
+}
+
+.names {
+    font-family: 'Pridi', serif;
+    font-size: 24px;
+    text-align: center;
+}
+
+.bio {
+    font-family: 'Raleway', sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 488px;
+}
+
+.title {
+    font-family: 'Pridi', serif;
+    font-size: 46px;
+    margin: 0px;
+    padding: 0px;
+    margin-top: 50px;
+}
+
+.colu {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.nimbus {
+    width: 742px;
+    height: 381px;
+    background: white;
+    margin: 0 auto;
+    border: 3px solid #F8D8E0;
+    box-sizing: border-box;
+    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.25);
+    border-radius: 20px;
+    padding: 15px;
+    margin-bottom: 50px;
+}
+
+.team_bio {
+    max-width: 631px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+#left {
+    z-index: -1;
+    position: absolute;
+    left: 0%;
+    display: flex;
+    justify-content: space-between;
+    bottom: -105%;
+}
+
+
+#right {
+    z-index: -1;
+    position: absolute;
+    right: 0%;
+    display: flex;
+    justify-content: space-between;
+    bottom: -105%;
+   
+}
