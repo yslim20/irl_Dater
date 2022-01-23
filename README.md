@@ -1,11 +1,14 @@
 # irl_Dater
 
 irl_Dater is a dating application designed to help users meet that special someone while having fun. <br>
-The point system in this app helps users break the ice and get to know each other better. 
+The point system in this app helps users break the ice and get to know each other better.
 
 ## Description
 
 An in-depth paragraph about your project and overview of use.
+
+## Homepage
+[@Marketing page](http://younsoolim.com/irl_Dater/home.html)
 
 ## Authors
 
