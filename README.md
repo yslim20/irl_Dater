@@ -8,7 +8,7 @@ The point system in this app helps users break the ice and get to know each othe
 An in-depth paragraph about your project and overview of use.
 
 ## Homepage
-[@Marketing page](http://younsoolim.com/irl_Dater/home.html)
+[@Marketing page](http://irldater.younsoolim.com/)
 
 ## Authors
 
