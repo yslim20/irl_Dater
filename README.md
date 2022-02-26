@@ -11,9 +11,9 @@ An in-depth paragraph about your project and overview of use.
 
 Web Developer, UX/UI Designer
 
-• Collected, researched, investigated and evaluated user requirements.
-• Provided an exceptional user experience through intuitive application design.
-• Designed and developed a marketing website for the application.
+• Collected, researched, investigated and evaluated user requirements.  <br>
+• Provided an exceptional user experience through intuitive application design. <br>
+• Designed and developed a marketing website for the application. <br>
 • Colloaborated closely with other major students, full stack developers.
 
 ## Homepage
