@@ -5,7 +5,9 @@ The point system in this app helps users break the ice and get to know each othe
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+In order to attract users, irl_Dater's marketing page describes the key features and how it works.
+Through the app, users can find their irl_Love with highly qualified matches they can imagine.
+
 
 ## Role
 
@@ -15,6 +17,7 @@ Web Developer, UX/UI Designer
 • Provided an exceptional user experience through intuitive application design. <br>
 • Designed and developed a marketing website for the application. <br>
 • Collaborated closely with other major students, full stack developers.
+
 
 ## Homepage
 [@Marketing page](http://irldater.younsoolim.com/)
