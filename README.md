@@ -7,6 +7,15 @@ The point system in this app helps users break the ice and get to know each othe
 
 An in-depth paragraph about your project and overview of use.
 
+## Role
+
+Web Developer, UX/UI Designer
+
+• Collected, researched, investigated and evaluated user requirements.
+• Provided an exceptional user experience through intuitive application design.
+• Designed and developed a marketing website for the application.
+• Colloaborated closely with other major students, full stack developers.
+
 ## Homepage
 [@Marketing page](http://irldater.younsoolim.com/)
 
