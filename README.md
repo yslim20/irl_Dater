@@ -14,7 +14,7 @@ Web Developer, UX/UI Designer
 • Collected, researched, investigated and evaluated user requirements.  <br>
 • Provided an exceptional user experience through intuitive application design. <br>
 • Designed and developed a marketing website for the application. <br>
-• Colloaborated closely with other major students, full stack developers.
+• Collaborated closely with other major students, full stack developers.
 
 ## Homepage
 [@Marketing page](http://irldater.younsoolim.com/)
